@@ -7,11 +7,11 @@ export const data = {
       father: "Father",
       childs: [
         {
-          name: "something",
+          name: "Child1",
           age: 13,
         },
         {
-          name: "another baby",
+          name: "Child2",
           age: 14,
         },
       ],
@@ -21,11 +21,25 @@ export const data = {
       father: "Father2",
       childs: [
         {
-          name: "something2",
+          name: "Child 4",
           age: 13,
         },
         {
-          name: "another baby2",
+          name: "Child5",
+          age: 14,
+        },
+      ],
+    },
+    {
+      mother: "Mum2",
+      father: "Father2",
+      childs: [
+        {
+          name: "Child 4",
+          age: 13,
+        },
+        {
+          name: "Child5",
           age: 14,
         },
       ],
